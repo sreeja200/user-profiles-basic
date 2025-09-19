@@ -21,3 +21,7 @@ A responsive **React + Tailwind CSS** web app displaying user profiles with avat
 ```bash
 git clone https://github.com/sreeja200/user-profiles-basic.git
 cd user-profiles-basic
+1. Clone the repo:
+```bash
+git clone https://github.com/sreeja200/user-profiles-basic.git
+cd user-profiles-basic
