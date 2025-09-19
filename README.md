@@ -17,12 +17,8 @@ A responsive **React + Tailwind CSS** web app displaying user profiles with avat
 [View on Vercel](https://user-profiles-basic-7aw1czen4-sreeja-gunnams-projects.vercel.app)
 
 ## Getting Started
-1. Clone the repo:
 ```bash
 git clone https://github.com/sreeja200/user-profiles-basic.git
 cd user-profiles-basic
-
-
-2. Install dependencies and start the app:
-```bash
 npm install
+npm start
